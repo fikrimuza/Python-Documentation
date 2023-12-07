@@ -1,1 +1,1 @@
-# Documentation-Django
+# Django Documentation
